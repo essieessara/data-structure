@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1461078484 source:c:\users\royall\desktop\dl\main.cpp
+	<iostream>
+
+1461250296 source:e:\pdf and words\data structures\dll_project\main.cpp
+	<iostream>
+	<string>
+
+1461364304 source:e:\pdf and words\projects\data structures projects\dll_project\main.cpp
+	<iostream>
+	<string>
+
